@@ -194,8 +194,8 @@ This project is licensed under the MIT License.
 
 Cybersecurity Enthusiast | SOC Analyst | Malware Analysis | Threat Hunting
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/Debangshu-sci
+- LinkedIn: https://www.linkedin.com/in/debangshu-sci
 
 ---
 
