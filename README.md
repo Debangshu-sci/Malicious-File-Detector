@@ -69,7 +69,7 @@ malware-detector/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/malware-detector.git
+git clone https://github.com/Debangshu-sci/Malicious-File-Detector/malware-detector.git
 cd malware-detector
 ```
 
